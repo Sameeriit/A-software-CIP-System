@@ -1,4 +1,4 @@
-# Final-Year-Project
+# CIP SYSTEM MANAGEMENT
 CENTRAL INSTITUTE OF PSYCHIATRY (A Software CIP System) 
 
 
